@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pinterestdownloader"
+version = "0.1.0"
+description = ""
+authors = ["DmitriyKryuchkov <kruchkovdmitriy48@yandex.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+bs4 = "^0.0.2"
+requests = "^2.31.0"
+selenium = "^4.19.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
