@@ -10,6 +10,8 @@ python = "^3.12"
 bs4 = "^0.0.2"
 requests = "^2.31.0"
 selenium = "^4.19.0"
+aiohttp = "^3.9.3"
+asyncio = "^3.4.3"
 
 
 [build-system]
